@@ -18,14 +18,15 @@ The site acts as a frontend showcase/demo for a food ordering service.
 Lakshmi Nagasai
 
 🛠️ Tech Stack
-
+```
 HTML5
 
 CSS3
 
-JavaScript
+BootStrap
+```
 
-GitHub Pages for hosting
+
 
 🗂️ Folder Structure
 ```
