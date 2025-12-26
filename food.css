@@ -1,0 +1,213 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.food-munch-logo{
+    height: 80px;
+    width: 80px;
+    padding: 5px;
+}
+#custom-nav-link1{
+    font-family: "Roboto";
+    color: #323f4b ;
+}
+#custom-nav-link2{
+    font-family: "Roboto";
+    color: #323f4b ;
+}
+#custom-nav-link3{
+    font-family: "Roboto";
+    color: #323f4b ;
+}
+#custom-nav-link4{
+    font-family: "Roboto";
+    color: #323f4b ;
+}
+.banner-section-bg-container{
+    background-image: url("https://res.cloudinary.com/dddjuplfk/image/upload/v1717860821/foodmunch-banner-bg_h1lu3b.png");
+    background-size: cover;
+    font-family: "Roboto";
+    height: 100vh;
+}
+.banner-heading{
+    font-size: 45px;
+    font-weight: 400;
+    color: white;
+}
+.banner-caption{
+    font-size: 28px;
+    font-weight: 300;
+    color: #f5f7fa;
+}
+.custom-button{
+    height: 45px;
+    width: 130px;
+    color: white;
+    background-image: linear-gradient(#d0b200,#a58d00);
+    border-width: 0px;
+    border-radius: 10px;
+    margin-right: 12px;
+}
+.custom-outline-button{
+    height: 45px;
+    width: 136px;
+    color: white;
+    background-color: transparent;
+    border:  2px solid #d0b200;
+    border-radius: 10px;
+}
+.wcu-section{
+    background-color: #f9fbfe;
+    font-family: "Roboto";
+}
+.wcu-heading{
+    font-size: 30px;
+    font-weight: bold;
+    color: #183b56;
+}
+.para-desc{
+    font-size: 16px;
+    color: #5a7184;
+}
+.wcu-card-container{
+    background-color: white;
+    text-align: center;
+    border: 2px solid #e5eaf4;
+    border-radius: 16px;
+}
+.wcu-image{
+    height: 90px;
+    width: 87px;
+}
+.wcu-card-title{
+    font-size: 24px;
+    color: #323f4b;
+    font-weight: 500; 
+}
+.wcu-card-desc{
+    color: #7b8794;
+    font-size: 16px;
+}
+.offers{
+    font-weight: bold;
+    font-style: italic;
+    color: #323f4b;
+}
+.explore-menu-section{
+    background-color: white;
+    font-family: "Roboto";
+}
+.explore-menu-heading{
+    font-size: 28px;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.menu-image{
+    height: 304px;
+    border-radius: 16px;
+}
+.menu-card-title{
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+}
+.menu-card-link{
+    font-size: 14px;
+    font-weight: 400;
+    color: #d0b200;
+}
+.menu-item-card{
+    border-radius: 16px;
+}
+.healthy-food-section{
+    background-color: #f9fbfe;
+    font-family: "Roboto";
+}
+.healthy-food-image{
+    height: 304px;
+}
+.healthy-food-title{
+    font-size: 28px;
+    font-weight: 600;
+    color:#183b56;
+}
+.healthy-food-title1{
+    font-size: 21px;
+    font-weight: 600;
+    color:#183b56;
+}
+.healthy-food-para{
+    color: #5a7184;
+    font-size: 16px;
+}
+.delivery-and-payment-image{
+    height: 304px;
+}
+.delivery-and-payment-title{
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+.delivery-and-payment-para{
+    color: #5a7184;
+    font-size: 16px;
+}
+.payment-card-image{
+    width: 80px;
+    height: 60px;
+    margin-right: 36px;
+}
+.thank-you-customer-section{
+    background-image: radial-gradient(#fff8db,#fae38c);
+    font-family: "Roboto";
+}
+.thank-you-heading{
+    font-size: 28px;
+    font-weight: 700;
+    color: #183b56;
+}
+.thank-you-image{
+    width: 280px;
+    margin-bottom: 20px;
+}
+.thank-you-para{
+    font-size: 16px;
+    font-weight: 400;
+    color: #5a7184;
+}
+.customers-section-title{
+    color: #d0b200;
+    font-weight: 900;
+}
+.follow-us-section{
+    background-color: white;
+    font-family: "Roboto";
+}
+.follow-us-section-main-heading{
+     font-size: 28px;
+     font-weight: 700;
+     color: #183b56;
+     text-align: center;
+}
+.follow-us-icon-container{
+    height: 80px;
+    width: 80px;
+    background-color: #faf7e8;
+    padding:22px 16px 14px 22px;
+    margin: 15px;
+    border-radius: 50%;
+}
+.icon{
+    font-size: 36px;
+}
+.footer-section {
+    background-color: #0d2436;
+    font-family: "Roboto";
+}
+.footer-section-heading{
+    color: #959ead;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer-section-para{
+    color: #959ead;
+    font-size: 16px;
+}
