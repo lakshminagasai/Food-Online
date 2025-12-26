@@ -7,12 +7,13 @@ This project showcases a clean landing page where users can explore menus, learn
 👉 Live demo: https://lakshminagasai.github.io/Food‑Online/
 
 📌 Features
-
+```
 ✔ Hero section with call‑to‑action
 ✔ Menu categories (e.g., Starters, Main Course, Desserts)
 ✔ Sections highlighting fresh food, offers, and why choose us
 ✔ Delivery & payment info
 ✔ Contact & follow‑us footer
+```
 
 The site acts as a frontend showcase/demo for a food ordering service. 
 Lakshmi Nagasai
@@ -20,9 +21,7 @@ Lakshmi Nagasai
 🛠️ Tech Stack
 ```
 HTML5
-
 CSS3
-
 BootStrap
 ```
 
@@ -34,8 +33,7 @@ BootStrap
  ┣ 📄index.html
  ┣ 📂css
  ┃ ┗ style.css
- ┣ 📂js
- ┃ ┗ script.js
+
  ┗ 📂images
    ┗ … (image assets)
 ```
@@ -67,9 +65,6 @@ This is a frontend static website meant to demonstrate a food ordering user inte
 Contributions are welcome! You can:
 
 Improve UI/UX
-
 Add a backend for full ordering functionality
-
 Make the site responsive for more devices
-
 Just fork the project, make your changes, and submit a pull request.
