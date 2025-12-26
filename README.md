@@ -37,15 +37,16 @@ GitHub Pages for hosting
  ┃ ┗ script.js
  ┗ 📂images
    ┗ … (image assets)
-
+```
 
 (Your actual structure may vary)
 
 🚀 How to Run Locally
 
 Clone the repo
-
+```
 git clone https://github.com/lakshminagasai/Food‑Online.git
+```
 
 
 Open index.html in a web browser
